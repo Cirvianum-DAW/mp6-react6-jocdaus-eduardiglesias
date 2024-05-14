@@ -5,7 +5,7 @@ import LuckyN from "./LuckyN";
 const App = () => {
     return (
         <div>
-            <LuckyN numDaus={3} suma={10} />
+            <LuckyN numDaus={2} suma={7} />
         </div>
     );
 }
